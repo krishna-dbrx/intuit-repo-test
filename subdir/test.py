@@ -1,6 +1,6 @@
 # Databricks notebook source
-def checkLibarary():
-  print("Calling the libarary")
+def samePlaceLib():
+  print("Same path lib")
 
 # COMMAND ----------
 

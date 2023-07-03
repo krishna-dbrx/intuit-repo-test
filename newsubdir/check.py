@@ -1,6 +1,6 @@
 # Databricks notebook source
-def checkLibarary():
-  print("Calling the libarary")
+from lib import test_lib
+test_lib()
 
 # COMMAND ----------
 
